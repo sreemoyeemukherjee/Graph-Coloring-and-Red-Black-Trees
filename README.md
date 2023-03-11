@@ -1,8 +1,8 @@
 # Graph-Coloring-and-Red-Black-Trees
 An application of graph coloring
 Write a program that reads a data file containing a list of student class schedules. The name of the data file will be entered on the command line. The output of your program will be 
-(a) a two dimensional matrix that represents the graph
-(b) a final exam schedule.
+1. a two dimensional matrix that represents the graph
+2. a final exam schedule.
 The format of the input file will always be as follows: 
 <student name>  <N>  <course name 1>  <course name 2> … <course nameN> <return> 
 <student name>  <K>  <course name 1> <course name 2> … <course nameK> <return> 
