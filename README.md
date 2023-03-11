@@ -1,5 +1,6 @@
 # Graph-Coloring-and-Red-Black-Trees
 An application of graph coloring
+
 Write a program that reads a data file containing a list of student class schedules. The name of the data file will be entered on the command line. The output of your program will be 
 1. a two dimensional matrix that represents the graph
 2. a final exam schedule.
